@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=jamiebower&style=plastic&label=CONSUMERS&color=6BA0AB&base=4563)
+![](https://komarev.com/ghpvc/?username=jamiebower&style=plastic&label=THNEEDS&color=6BA0AB&base=4563)
 
 </div>
 
